@@ -18,7 +18,7 @@ GRC and compliance professional with 4+ years of experience across internal and 
 ## Experience
 
 ### Senior Internal Auditor – Technology & Cybersecurity
-**Verizon** · Alpharetta, GA · Feb 2025 – June 2026
+**Verizon** · Alpharetta, GA
 
 - Tested a public sector engagement's vulnerability management and POA&M compliance program, verifying that identified vulnerabilities were tracked, CVSS-scored, and remediated within federal timelines (30/90/180 days for High/Moderate/Low risk) in accordance with NIST 800-53, tracking each finding to a named owner and milestone through closure.
 - Reviewed ISSO coordination processes, meeting trackers, and validation scan evidence to confirm remediation closure approvals and documented extension justifications met federal compliance requirements.
@@ -28,7 +28,7 @@ GRC and compliance professional with 4+ years of experience across internal and 
 - Piloted GenAI tools to accelerate anomaly analysis and audit report drafting, cutting manual review time nearly in half.
 
 ### Tech Assurance Associate
-**KPMG** · Atlanta, GA · June 2022 – Nov 2024
+**KPMG** · Atlanta, GA
 
 - Evaluated IT General Controls (ITGCs) and operational risks across complex IT environments for SOX and SOC 1/2 engagements, assessing control design and operating effectiveness.
 - Executed comprehensive system evaluations across applications, databases, and network infrastructures to validate performance and ensure compliance with ITGC and regulatory requirements.
