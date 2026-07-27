@@ -4,7 +4,7 @@ GRC & Compliance Professional | FedRAMP / POA&M Audit Experience | SOC 2, ISO 27
 
 GRC and compliance professional with 4+ years of experience across internal and external audit, including a public sector engagement testing FedRAMP, FISMA, CMSnet, Networx, and EIS vulnerability management and POA&M compliance against federal remediation timelines under NIST 800-53. I bring a deep, practical understanding of how controls operate day to day — from evidence generation to control owner accountability — across SOC 1/2, ISO 27001, and NIST CSF environments. I track findings to named process owners and milestones through to remediation closure, partnering directly with engineering, IT, and business stakeholders to keep evidence current and audit-ready.
 
-- 📍 Alpharetta, GA
+- 📍 Atlanta, GA
 - 📧 mandyxwtan@gmail.com
 - 🔗 [linkedin.com/in/mandy-tan8](https://linkedin.com/in/mandy-tan8)
 
